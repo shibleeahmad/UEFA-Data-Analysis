@@ -1,6 +1,7 @@
 # UEFA Champions League EDA & ML Prediction App
 
-This Streamlit web app provides interactive **Exploratory Data Analysis (EDA)** and **Machine Learning (ML) predictions** for UEFA Champions League teams and finals, using historical data.
+This Streamlit web app provides interactive **Exploratory Data Analysis (EDA)** and **Machine Learning (ML) predictions** for UEFA Champions League teams and finals, using historical data. 
+live demo: https://uefa-data-analysis.streamlit.app/
 
 ## Features
 
